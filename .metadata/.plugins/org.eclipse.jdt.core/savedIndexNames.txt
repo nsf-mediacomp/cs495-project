@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\cake\UA\cs495\KittyPaint\.metadata\.plugins\org.eclipse.jdt.core
+733153372.index
+3740500776.index
