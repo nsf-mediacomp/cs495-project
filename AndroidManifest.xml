@@ -15,7 +15,9 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.cs495.kittypaint.MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,7 +28,18 @@
             android:name="com.cs495.kittypaint.PonyActivity"
             android:label="@string/title_activity_pony"
             android:parentActivityName="com.cs495.kittypaint.MainActivity"
-        	android:theme="@android:style/Theme.NoTitleBar" >
+        	android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cs495.kittypaint.MainActivity" />
+        </activity>
+		<activity
+            android:name="com.cs495.kittypaint.DrawActivity"
+            android:label="@string/title_activity_draw"
+            android:parentActivityName="com.cs495.kittypaint.MainActivity"
+        	android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.cs495.kittypaint.MainActivity" />

@@ -27,4 +27,8 @@ public class MainActivity extends Activity {
     	startActivity(intent);
     }
     
+	public void gotoDrawActivity(View view){
+    	Intent intent = new Intent(this, DrawActivity.class);
+    	startActivity(intent);
+    }
 }

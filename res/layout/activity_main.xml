@@ -21,5 +21,14 @@
         android:layout_centerVertical="true"
         android:text="@string/button_pony_start"
         android:onClick="becomePony" />
+    
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/button_draw_start"
+        android:onClick="gotoDrawActivity" />
 
 </RelativeLayout>
