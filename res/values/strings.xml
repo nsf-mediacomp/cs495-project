@@ -6,5 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_pony">PonyActivity</string>
     <string name="button_pony_start">PONY</string>
+    <string name="ponytext_string">Pony should pony pony.</string>
 
 </resources>

@@ -25,7 +25,8 @@
         <activity
             android:name="com.cs495.kittypaint.PonyActivity"
             android:label="@string/title_activity_pony"
-            android:parentActivityName="com.cs495.kittypaint.MainActivity" >
+            android:parentActivityName="com.cs495.kittypaint.MainActivity"
+        	android:theme="@android:style/Theme.NoTitleBar" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.cs495.kittypaint.MainActivity" />
