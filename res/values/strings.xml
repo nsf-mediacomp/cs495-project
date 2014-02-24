@@ -4,5 +4,7 @@
     <string name="app_name">KittyPaint</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_pony">PonyActivity</string>
+    <string name="button_pony_start">PONY</string>
 
 </resources>
