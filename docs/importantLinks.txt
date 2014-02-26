@@ -1,0 +1,3 @@
+1. http://stackoverflow.com/questions/6785875/develop-android-application-using-html-css-and-javascript
+2. http://developer.android.com/guide/webapps/webview.html
+3. http://stackoverflow.com/questions/6343450/generating-sound-on-the-fly-with-javascript-html5
