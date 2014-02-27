@@ -1,3 +1,6 @@
+0. http://cs-495.github.io/cs495-project/
 1. http://stackoverflow.com/questions/6785875/develop-android-application-using-html-css-and-javascript
 2. http://developer.android.com/guide/webapps/webview.html
 3. http://stackoverflow.com/questions/6343450/generating-sound-on-the-fly-with-javascript-html5
+4. http://stackoverflow.com/questions/18676311/android-app-how-to-save-a-bitmap-drawing-on-canvas-as-image-check-code
+5. 
